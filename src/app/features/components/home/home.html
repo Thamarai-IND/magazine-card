@@ -1,0 +1,10 @@
+<div class="toolbar">
+  <button (click)="resetFilter()">All</button>
+  <button *ngFor="let cat of categories" (click)="filterByCategory(cat)">
+    {{ cat }}
+  </button>
+</div>
+
+<div class="grid">
+  <app-magazine-card *ngFor="let article of filtered; trackBy: trackById" [article]="article"></app-magazine-card>
+</div>

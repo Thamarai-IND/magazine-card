@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Designing for Emotion",
+    "image": "https://nielseniq.com/wp-content/uploads/sites/4/2025/08/european-retail-study-2024-2025.jpg",
+    "excerpt": "Explore how emotional design influences user behavior and brand loyalty.",
+    "category": "Design",
+    "author": "Ava Lin",
+    "date": "2025-10-01"
+  },
+  {
+    "id": 2,
+    "title": "AI in Everyday Life",
+    "image": "https://nielseniq.com/wp-content/uploads/sites/4/2025/08/GettyImages-1781282266.jpg?resize=2048,1365",
+    "excerpt": "From smart homes to wearables, AI is reshaping how we live.",
+    "category": "Technology",
+    "author": "Leo Grant",
+    "date": "2025-10-02"
+  },
+  {
+    "id": 3,
+    "title": "The Future of Remote Work",
+    "image": "https://nielseniq.com/wp-content/uploads/sites/4/2024/08/GettyImages-1135776151.jpg",
+    "excerpt": "How hybrid models are redefining productivity and collaboration.",
+    "category": "Business",
+    "author": "Nina Patel",
+    "date": "2025-10-03"
+  },
+  {
+    "id": 4,
+    "title": "Minimalist UI Trends",
+    "image": "https://nielseniq.com/wp-content/uploads/sites/4/2024/09/pexels.com_photo_834894.jpg",
+    "excerpt": "Why less is more in modern interface design.",
+    "category": "Design",
+    "author": "Carlos Mendez",
+    "date": "2025-10-04"
+  },
+  {
+    "id": 5,
+    "title": "Quantum Computing 101",
+    "image": "https://nielseniq.com/wp-content/uploads/sites/4/2024/09/phygital20reality20of20shopper20in20a20retail20store-jpg.jpeg",
+    "excerpt": "A beginner’s guide to the next computing revolution.",
+    "category": "Technology",
+    "author": "Emily Zhao",
+    "date": "2025-10-05"
+  },
+  {
+    "id": 6,
+    "title": "Startup Culture Myths",
+    "image": "https://nielseniq.com/wp-content/uploads/sites/4/2024/09/GettyImages-1442318208.jpg",
+    "excerpt": "Debunking the hustle narrative in modern entrepreneurship.",
+    "category": "Business",
+    "author": "Rajiv Menon",
+    "date": "2025-10-06"
+  },
+  {
+    "id": 7,
+    "title": "Inclusive Design Principles",
+    "image": "https://nielseniq.com/wp-content/uploads/sites/4/2024/08/shutterstock_749540866.jpg",
+    "excerpt": "Designing for accessibility and equity from the start.",
+    "category": "Design",
+    "author": "Sofia Kim",
+    "date": "2025-10-07"
+  },
+  {
+    "id": 8,
+    "title": "Edge AI Explained",
+    "image": "https://nielseniq.com/wp-content/uploads/sites/4/2024/08/GettyImages-1408834057.jpg",
+    "excerpt": "Why AI at the edge is the next big thing.",
+    "category": "Technology",
+    "author": "Marcus Lee",
+    "date": "2025-10-08"
+  },
+  {
+    "id": 9,
+    "title": "Sustainable Business Models",
+    "image": "https://nielseniq.com/wp-content/uploads/sites/4/2023/08/article_2_opt_1.jpg",
+    "excerpt": "How companies are aligning profit with purpose.",
+    "category": "Business",
+    "author": "Lara Singh",
+    "date": "2025-10-09"
+  },
+  {
+    "id": 10,
+    "title": "Typography in UX",
+    "image": "https://nielseniq.com/wp-content/uploads/sites/4/2023/06/people-having-drinks-at-picnic-table.jpg",
+    "excerpt": "How font choices shape user experience and readability.",
+    "category": "Design",
+    "author": "Tomás Rivera",
+    "date": "2025-10-10"
+  }
+]
